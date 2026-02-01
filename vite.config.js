@@ -5,3 +5,7 @@ export default defineConfig({
     global: 'window',
   },
 });
+
+export default {
+  base: '/goit-js-hw-12/', 
+};
